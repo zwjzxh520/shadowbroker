@@ -31,7 +31,7 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **EAGERLEVER** NBT/SMB exploit for Windows NT4.0, 2000, XP SP1 & SP2, 2003 SP1 & Base Release
 - **EASYFUN** WordClient / IIS6.0 exploit
 - **ESSAYKEYNOTE** 
-- **EVADEFRED**
+- **EVADEFRED** IIS 5.0 & 5.1
 
 
 # Utilities
